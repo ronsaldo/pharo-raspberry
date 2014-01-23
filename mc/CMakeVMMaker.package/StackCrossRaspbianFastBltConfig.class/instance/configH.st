@@ -12,7 +12,7 @@ configH
 /* package options */
 
 #define	USE_X11 1
-#define	USE_X11_GLX 1
+/* #undef	USE_X11_GLX 1 */
 /* #undef	USE_QUARTZ */
 /* #undef	USE_QUARTZ_CGL */
 /* #undef	USE_RFB */

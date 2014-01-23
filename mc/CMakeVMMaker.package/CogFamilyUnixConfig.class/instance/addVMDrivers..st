@@ -23,7 +23,7 @@ session management library for X11
 		generator: maker
 		
 		"-lSM -lICE -ldl -lGL -lpthread -lm -lnsl -lX11'"
-		externalLibs: #( SM ICE GL X11 nsl dl);
+		externalLibs: #( SM ICE X11 nsl dl );
 		
 
 		addDriver: 'vm-sound-ALSA' 

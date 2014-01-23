@@ -1,3 +1,3 @@
 utils
 linkFlags
-	 ^ '-lSM -lICE -ldl -lGL -lpthread -lm -lnsl -lX11'
+	 ^ '-lSM -lICE -ldl -lpthread -lm -lnsl -lX11'
